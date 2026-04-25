@@ -1,0 +1,2 @@
+Lassi's exercise text.
+Example file for the course.
